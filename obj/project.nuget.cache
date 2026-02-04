@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ASzr3iCh44=",
+  "success": true,
+  "projectFilePath": "/Users/timbecker/Desktop/c#/BudgetTracker/BudgetTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/timbecker/.nuget/packages/spectre.console/0.54.0/spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}
